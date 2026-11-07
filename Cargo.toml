@@ -1,0 +1,10 @@
+[package]
+name = "adhkar-rs-hisn-muslim-indexer"
+version = "1.0.0"
+edition = "2021"
+description = "Hisn Al-Muslim (Fortress of the Muslim) 132-Chapter Authenticated Index"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "adhkar_rs_hisn_muslim_indexer"
+path = "main.rs"
